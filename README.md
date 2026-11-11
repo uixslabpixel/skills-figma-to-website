@@ -15,7 +15,7 @@ Requires [Claude Code](https://claude.com/claude-code) and the Figma MCP server.
 Personal (all projects):
 
 ```bash
-git clone https://github.com/vickyfikri90-cloud/uix.git
+git clone https://github.com/uixslabpixel/uix.git
 mkdir -p ~/.claude/skills && cp -R uix/skills/figma-to-website ~/.claude/skills/
 ```
 
